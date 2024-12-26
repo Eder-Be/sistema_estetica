@@ -74,7 +74,7 @@
         <p>Olá,</p>
 <p>Esse é um sistema que tem como finalidade, registrar os dados gerados pelo seu negócio na área de estética.
 Todos os dados criados (cadastro de clientes, procedimentos, agendamentos e faturamentos) são registrados em um banco de dados relacional através desta interface.
-Uma vez registrados, estes dados poderão serem consultados. Exceto para os dados relacionados ao faturamento, os demais dados também poderão ser atualizados ou deletados.
+Uma vez registrados, os dados de clientes e agendamentos poderão serem consultados, alterados ou excluídos.
 Para os dados de faturamento e lista de procedimentos,  através deste sistema, só é possível a inclusão e a consulta. Caso necessite uma alteração ou exclusão para este tipo de registro é necessário solicitar ao Administrador do Banco de Dados.</p> 
 <p>A Navegação é bastante intuitiva. O menu está fixado na lateral esquerda , exceto na página inicial,  onde está localizado na parte superior da tela. Caso, em algum momento, queira voltar para esta página inicial, basta clicar no logotipo “Patrícia Centro de Estética” que está no topo da página.</p>
 <p>Para dúvidas ou solicitação ao administrador do banco de dados, contatar no e-mail: ederbecker.eb@gmail.com</p>
